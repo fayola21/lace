@@ -2,7 +2,7 @@
 
 LACE = Large-scale Assurance of Confidentiality Environment
 * Minimizes and Obfuscates data for Sharing.
-* Measures level of protection offered by obfuscating algorithms.
+* Measures level of data protection offered by obfuscating algorithms.
 
 
 ## License
