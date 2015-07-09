@@ -1,14 +1,10 @@
 # lace
 
-A Clojure library designed to ... well, that part is up to you.
+LACE = Large-scale Assurance of Confidentiality Environment
+..* Minimizes and Obfuscates data for Sharing.
+..* Measures level of protection offered by obfuscating algorithms.
 
-## Usage
-
-FIXME
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License version 1.0 or any later version.
